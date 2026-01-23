@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	
+<html>
+<head>
+	<title>INFT - Lab 1 Part 1</title>
+	<!--
+	Name: Jeremy Rilling
+	File: index.html
+	Date: 20 Janaury 2026
+	A cover letter marked up wuth HTML5 to match MDN challenge
+	-->
