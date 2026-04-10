@@ -1,0 +1,41 @@
+<!--
+Name: Jeremy Rilling
+File: index.html
+Date: April 10, 2026
+Description: INFT-1206-02 Assignment 4 Silly Story Generator
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Silly Story Generator</title>
+</head>
+
+<body>
+
+<div>
+  <label for="custom-name">Enter custom name:</label>
+  <input id="custom-name" type="text" />
+</div>
+
+<fieldset>
+  <legend>Choose locale:</legend>
+  <label for="us">US</label>
+  <input id="us" type="radio" name="uk-us" value="us" checked />
+  
+  <label for="uk">UK</label>
+  <input id="uk" type="radio" name="uk-us" value="uk" />
+</fieldset>
+
+<div>
+  <button class="generate">Generate random story</button>
+</div>
+
+<!-- Thanks a lot to Willy Aguirre for his help with the code for this assessment -->
+<p class="story"></p>
+
+<script src="script.js"></script>
+
+</body>
+</html>
