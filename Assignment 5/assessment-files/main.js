@@ -1,3 +1,10 @@
+/*
+Name: Jeremy Rilling
+File: main.js
+Date: April 20, 2026
+Description: INFT-1206-02 Assignment 5 Web Accessibility
+*/
+
 // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
